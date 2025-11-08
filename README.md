@@ -41,7 +41,7 @@ Users should be able to:
 
 ### What I learned
 
-#### **css 프리셋 재사용**
+#### 1. css 프리셋 재사용
 
 자주 사용되는 css 스타일을 재사용하는 방법을 배웠다.
 
@@ -81,11 +81,11 @@ Users should be able to:
 
 프리셋을 적용할 텍스트에 해당 class를 적용한다.
 
-#### **figma 사용법**
+#### 2. figma 사용법
 
 figma에 레이어 정보가 상세하게 나와있다. 블록 구조가 미리 정의되어 있어 참고할 수 있다.
 
-#### **hover, cursor**
+#### 3. hover, cursor
 
 css의 정의자 뒤에 `:hover`를 붙이면 마우스를 올렸을 때 적용할 임시 스타일을 정의할 수 있다.
 
